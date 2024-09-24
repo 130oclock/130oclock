@@ -1,14 +1,9 @@
 ![Header](./github-hero-banner.png)
 
-
 I'm Aidan Donley, an undergraduate CS student. I am currently researching applications of Machine Learning in Materials Science and Engineering. I also maintain a Dell PowerEdge server running Proxmox and some docker containers in my free time.
 
 ## ✨ Interests
-- Machine learning
-- Computer vision
-- Computer graphics
-- Server management
-- Web development
+- Machine learning, Computer vision, Computer graphics, Server management, Web development
 
 ## 🔧 Skills
 - **Languages:** C++, Python, Java, Javascript, HTML, CSS
@@ -17,6 +12,8 @@ I'm Aidan Donley, an undergraduate CS student. I am currently researching applic
 ## 📈 Learning
 - **Languages:** C, Fortran, Lua
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=130oclock)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 130oclock/130oclock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
