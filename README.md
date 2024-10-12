@@ -5,12 +5,9 @@ I'm Aidan Donley, an undergraduate CS student at the University of Michigan. I a
 ## ✨ Interests
 - Machine learning, Computer vision, Computer graphics, Material simulation, Server management, Web development
 
-## 🛠️: Skills
-- **Languages:** C++, Python, Java, Javascript, HTML, CSS
-- **Libraries and Frameworks:** PyTorch, Docker
-
 ## ✏️ Learning
-- **Languages:** C, Fortran, Lua
+- **Languages:** C++, C, Python, Java, Javascript, HTML, CSS, Fortran, Lua
+- **Libraries and Frameworks:** PyTorch, Docker
 
 ## 📈 My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=130oclock&border_color=34414a&bg_color=30,34414a,1d292b&title_color=ffffff&text_color=bbbbbb&border_radius=8&line_height=20&ring_color=d9a159)](https://github.com/anuraghazra/github-readme-stats)
